@@ -6,6 +6,6 @@ Project presentation: [:link:](https://drive.google.com/file/d/1RxSiHHHaGWHNE0YH
 
 This is the capstone project for the IBM Data Analyst Professional Certificate, which I completed as part of the NPower Canada JDA Vancouver September 2022 cohort.
 
-I used Anaconda and Visual Studio Code to to complete the Jupyter notebooks on Windows 11 Home. The dashboarding was done using IBM Cognos via a Watson Studio instance on IBM Cloud.
+I used Anaconda and Visual Studio Code to complete the Jupyter notebooks on Windows 11 Home. The dashboarding was done using IBM Cognos Embedded via a Watson Studio instance on IBM Cloud.
 
 All code is licensed under the MIT license.
