@@ -1,4 +1,4 @@
-# IBM-Data-Analysis-Capstone
+# IBM Data Analysis Capstone
 
 [Dashboard link](https://dataplatform.cloud.ibm.com/dashboards/93ec7bda-4f76-4324-88c4-f58d41418ee3/view/5101f82c1a831ed042c8bde407cb28537f3e765eb5bbd75287817b4906317597f0604294c827495a8b145062a0eb1a0c9d)
 
